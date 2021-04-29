@@ -1,0 +1,22 @@
+{
+  "name": "api-hospitals",
+  "version": "1.0.0",
+  "description": "My listing of hospitals - api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erockschafer/api-hospitals.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erockschafer/api-hospitals/issues"
+  },
+  "homepage": "https://github.com/erockschafer/api-hospitals#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
